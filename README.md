@@ -31,7 +31,7 @@
 
 Для загрузки репозитория вам нужно воспользоваться командой `git clone <url>`. URL своего репозитория вы можете получить, нажав на кнопку `Code` на сайте GitHub, а затем скопировав URL из вкладки `HTTPS`.
 
-![Repo url example](https://i.imgur.com/5FfHM7O.png)
+![Repo url example](https://i.imgur.com/7yMsNCm.png)
 
 ### Сохранение изменений
 
